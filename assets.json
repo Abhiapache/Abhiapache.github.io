@@ -585,7 +585,6 @@
 		"group": "default",
 		"title": "Test Filter",
 		"contentURL": [
-			"https://abhiapache.github.io/testFilters.txt",
 			"assets/testFilters.txt"
 		]
 	}
