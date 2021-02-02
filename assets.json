@@ -3,7 +3,7 @@
 		"content": "internal",
 		"updateAfter": 13,
 		"contentURL": [
-			"https://raw.githubusercontent.com/Abhiapache/File-Hosting/main/assets.json",
+			"https://abhiapache.github.io/assets.json",
 			"assets/assets.json"
 		]
 	},
@@ -579,5 +579,14 @@
 		"lang": "vi",
 		"contentURL": "https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt",
 		"supportURL": "https://abpvn.com/"
+	},
+	"test-filters": {
+		"content": "filters",
+		"group": "default",
+		"title": "Test Filter",
+		"contentURL": [
+			"https://abhiapache.github.io/testFilters.txt",
+			"assets/testFilters.txt"
+		]
 	}
 }
