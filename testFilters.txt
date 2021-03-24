@@ -15,7 +15,7 @@
 ! -----------------------General advert blocking filters-----------------------!
 ! *** easylist:easylist/easylist_general_block.txt ***
 extensionslabs.com
-youtube.com
 timesofindia.indiatimes.com
 indiatimes.com
 forbes.com
+youtube.com##+js(cookie-remover, ref_cookie)
