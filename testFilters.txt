@@ -21,3 +21,4 @@ forbes.com
 @@youtube.com
 @@cdnvideo.mobi
 @@adspyglass.com
+@@googletagmanager.com
