@@ -16,6 +16,6 @@
 ! *** easylist:easylist/easylist_general_block.txt ***
 extensionslabs.com
 timesofindia.indiatimes.com
-@@indiatimes.com
+@||indiatimes.com^$document
 forbes.com
 @@youtube.com
