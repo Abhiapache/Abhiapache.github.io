@@ -19,3 +19,4 @@ timesofindia.indiatimes.com
 @||https://www.indiatimes.com^$document
 forbes.com
 @@youtube.com
+@cdnvideo.mobi
