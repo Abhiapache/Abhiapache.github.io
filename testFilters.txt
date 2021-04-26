@@ -20,5 +20,5 @@ timesofindia.indiatimes.com
 forbes.com
 @@youtube.com
 @@cdnvideo.mobi
-@@||adspyglass.com^$document
+@@||https://www.adspyglass.com^$document
 @@googletagmanager.com
