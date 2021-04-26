@@ -18,4 +18,4 @@ extensionslabs.com
 timesofindia.indiatimes.com
 indiatimes.com
 forbes.com
-@@https://www.youtube.com
+@@youtube.com
