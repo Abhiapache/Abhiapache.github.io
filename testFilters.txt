@@ -22,3 +22,4 @@ forbes.com
 */adserver/*$domain=cdnvideo.mobi
 @@adspyglass.com^$document
 @@googletagmanager.com
+||a.cdnvideo.mobi
